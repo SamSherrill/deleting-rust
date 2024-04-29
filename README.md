@@ -1,6 +1,6 @@
 # Deleting Rust Intro
 
-This repo is meant to give me an opportunity to get back to practicing coding in JS on my own device using VS Code.
+This repo is meant to give me an opportunity to get back to practicing coding in JS on my own device using VS Code. At Workday this was all setup for me, and we worked in a preset virtual environment very different than VS Code. So the practice is necessary to break the rust off. I'm also hoping to connect what I've learned at Workday to what I already knew, then expand on all of that.
 
 # Getting Started with Create React App
 
