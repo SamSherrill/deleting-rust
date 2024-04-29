@@ -1,3 +1,7 @@
+# Deleting Rust Intro
+
+This repo is meant to give me an opportunity to get back to practicing coding in JS on my own device using VS Code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
